@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_02_ThreeClassesExample"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_03_ExampleWithComments", "Tut_03_ExampleWithComments\Tut_03_ExampleWithComments.csproj", "{21F1BBEB-6A55-457C-B343-39B306DCB8E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_04_MethodWithBasicTypeParameter", "Tut_04_MethodWithBasicTypeParameter\Tut_04_MethodWithBasicTypeParameter.csproj", "{4DD6D6A3-597A-4BFD-B472-318E9211445E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{21F1BBEB-6A55-457C-B343-39B306DCB8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21F1BBEB-6A55-457C-B343-39B306DCB8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21F1BBEB-6A55-457C-B343-39B306DCB8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD6D6A3-597A-4BFD-B472-318E9211445E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD6D6A3-597A-4BFD-B472-318E9211445E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD6D6A3-597A-4BFD-B472-318E9211445E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD6D6A3-597A-4BFD-B472-318E9211445E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
