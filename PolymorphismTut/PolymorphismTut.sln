@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_01_SimpleExample", "Tut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_02_ThreeClassesExample", "Tut_02_ThreeClassesExample\Tut_02_ThreeClassesExample.csproj", "{DB103815-F2F2-493B-9522-5DF2B087E9AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tut_03_ExampleWithComments", "Tut_03_ExampleWithComments\Tut_03_ExampleWithComments.csproj", "{21F1BBEB-6A55-457C-B343-39B306DCB8E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{DB103815-F2F2-493B-9522-5DF2B087E9AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB103815-F2F2-493B-9522-5DF2B087E9AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB103815-F2F2-493B-9522-5DF2B087E9AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21F1BBEB-6A55-457C-B343-39B306DCB8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F1BBEB-6A55-457C-B343-39B306DCB8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F1BBEB-6A55-457C-B343-39B306DCB8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F1BBEB-6A55-457C-B343-39B306DCB8E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
